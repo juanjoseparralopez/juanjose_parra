@@ -1,1 +1,3 @@
-Esto es la bibliografía.txt dentro de la rama Master.
+Esto es la bibliografía.txt dentro 
+de la rama Master.
+
