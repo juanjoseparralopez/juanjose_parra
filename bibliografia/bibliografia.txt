@@ -1,0 +1,3 @@
+En este capítulo veremos cómo usar GitHub con ramas.
+
+ crear el conflicto
